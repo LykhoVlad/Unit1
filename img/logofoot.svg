@@ -1,0 +1,23 @@
+<svg id="logofoot" xmlns="http://www.w3.org/2000/svg" width="166" height="51" viewBox="0 0 166 51">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16px;
+        text-anchor: middle;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: JosefinSans;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="Safe_Travel_Anywhere" data-name="Safe Travel Anywhere" class="cls-1" x="83" y="47.999">Safe Travel Anywhere</text>
+  <text id="Bhromaon" class="cls-2" y="18.824">Bhromaon</text>
+</svg>
