@@ -24,6 +24,11 @@
 	</svg>
 </head>
 <body>
+	<!-- 
+		1.more logical styling
+		2.class="container" in many places is overdiv.
+		3.missed details
+	 -->
 	<header class="heading">
 		<div class="container">
 			<div class="heading__title">
@@ -45,7 +50,7 @@
 		<div class="container">
 			<svg class="menu__logo">
 			 	<use xlink:href="#logo"></use>
- 			<svg>
+			</svg>
 			<div class="menu__nav clearfix">
 					<ul>
 						<li>
@@ -115,7 +120,7 @@
 		</div>
 	</section>
 	<section class="grand">
-		<div class="container">
+		<div class="container"> <!-- To many wrap not so good-->
 			<div class="grand__now">
 				<div class="grand__now--title">
 					<h3>
@@ -156,10 +161,10 @@
 			<div class="end__foot">
 				<svg>
 				 	<use xlink:href="#logo"></use>
-	 			<svg>
+				</svg>
 				<span>Safe Travel Anywhere</span>
 				<ul class="end__foot--icon">
-					<li>
+					<li> <!-- Size of elements!!-->
 						<a href="#"><img src="img/facebook_.png" alt="facebook"></a>
 						<a href="#"><img src="img/twitter_.png" alt="twitter"></a>
 						<a href="#"><img src="img/in.png" alt="in"></a>
